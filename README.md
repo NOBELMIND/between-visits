@@ -77,6 +77,6 @@ Doctors and developers who add a clue, catch a mistake, suggest a case, or impro
 
 - Read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for a first contribution you can make entirely in your browser.
 - Read the [Code of Conduct](.github/CODE_OF_CONDUCT.md). It is short.
-- Licensing: see the LICENSE file.
+- Licensing: terms are being finalized. Until then, all rights are reserved; you are welcome to read, discuss and take part here.
 
 *Between Visits is run by NOBELMIND. Invented patients only. Not medical advice.*

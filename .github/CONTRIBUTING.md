@@ -38,6 +38,6 @@ Congratulations: you have just done what coders do every day.
 - Clinical accuracy. A cardiologist reviews every case and answer.
 - Kindness. See the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-By contributing, you agree your contribution is shared under the license in this repository (see the LICENSE file).
+License terms are being finalized. By contributing, you agree NOBELMIND may display and credit your contribution as part of this series.
 
 *Between Visits is run by NOBELMIND.*
