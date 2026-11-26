@@ -1,0 +1,20 @@
+day,test,value,unit,lab_reference_range,note
+0,sodium,137,mmol/L,135-145,discharge
+0,potassium,4.4,mmol/L,3.5-5.1,discharge
+0,creatinine,1.15,mg/dL,0.70-1.30,discharge
+0,urea_nitrogen,24,mg/dL,8-23,discharge
+0,egfr,64,mL/min/1.73m2,>=60,discharge
+0,nt_probnp,2850,pg/mL,<450 (age >=75),discharge
+4,sodium,136,mmol/L,135-145,clinic
+4,potassium,4.7,mmol/L,3.5-5.1,clinic
+4,creatinine,1.24,mg/dL,0.70-1.30,clinic
+4,urea_nitrogen,28,mg/dL,8-23,clinic
+4,egfr,58,mL/min/1.73m2,>=60,clinic
+13,sodium,131,mmol/L,135-145,clinic; resulted day 14 morning
+13,potassium,5.9,mmol/L,3.5-5.1,clinic; resulted day 14 morning; sample not hemolyzed
+13,creatinine,2.05,mg/dL,0.70-1.30,clinic; resulted day 14 morning
+13,urea_nitrogen,61,mg/dL,8-23,clinic; resulted day 14 morning
+13,egfr,32,mL/min/1.73m2,>=60,clinic; resulted day 14 morning
+13,bicarbonate,19,mmol/L,22-29,clinic; resulted day 14 morning
+13,magnesium,2.3,mg/dL,1.7-2.4,clinic; resulted day 14 morning
+13,nt_probnp,1310,pg/mL,<450 (age >=75),clinic; resulted day 14 morning

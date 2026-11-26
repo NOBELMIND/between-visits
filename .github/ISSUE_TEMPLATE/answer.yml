@@ -1,0 +1,48 @@
+name: Answer a case
+description: Share your answer to the current Between Visits case. Invented patients only. Not medical advice.
+title: "Case [number]: answer"
+labels: ["answer"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Invented patients only. Not medical advice.**
+        Please do not include any real patient information, even de-identified. Edits stay visible in history.
+        Tip: write your answer before reading other people's.
+  - type: input
+    id: case
+    attributes:
+      label: Case number
+      placeholder: "1"
+    validations:
+      required: true
+  - type: textarea
+    id: action
+    attributes:
+      label: What would you do today?
+      description: For example, would you call the patient, and what would you change?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why?
+      description: One or two lines on what in the log or labs led you there.
+    validations:
+      required: false
+  - type: input
+    id: background
+    attributes:
+      label: Your background (optional)
+      placeholder: "e.g. cardiology fellow, family medicine, software developer, student"
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before you submit
+      options:
+        - label: My answer contains no real patient information.
+          required: true
+        - label: You may credit me by my GitHub username if I add something useful.
+          required: false

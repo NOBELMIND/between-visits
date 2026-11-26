@@ -1,0 +1,39 @@
+name: Case idea
+description: Suggest an invented patient or a teaching point for a future case. Invented patients only. Not medical advice.
+title: "Case idea: "
+labels: ["case idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Invented patients only. Not medical advice.**
+        Do not base an idea on a real person, even with details changed. Edits stay visible in history.
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: Who is the invented patient, and what happens at home between visits?
+    validations:
+      required: true
+  - type: textarea
+    id: lesson
+    attributes:
+      label: What should readers learn?
+      description: The pattern or pitfall you want people to notice.
+    validations:
+      required: true
+  - type: input
+    id: background
+    attributes:
+      label: Your background (optional)
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before you submit
+      options:
+        - label: This idea is invented and contains no real patient information.
+          required: true
+        - label: You may credit me by my GitHub username if this idea is used.
+          required: false

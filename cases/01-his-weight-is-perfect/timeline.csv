@@ -1,0 +1,15 @@
+day,morning_weight_kg,bp_sitting,pulse_bpm,breathless_0to4,ankle_swelling,dizzy_on_standing,urine,meds_note,patient_note
+1,83.8,128/76,70,2,mild both,no,plenty,all taken,"First day home. Slept on 2 pillows."
+2,83.1,126/74,68,2,mild both,no,plenty,all taken,
+3,82.5,124/74,70,1,trace,no,plenty,all taken,"Walked to the mailbox and back."
+4,82.0,122/72,70,1,trace,no,plenty,all taken,"Clinic visit and blood test."
+5,81.6,120/70,72,1,none,no,plenty,all taken,"Ankles look normal again."
+6,81.3,118/70,72,1,none,no,normal,all taken,
+7,81.2,116/68,74,1,none,no,normal,all taken,"Hot day. Ate less, not hungry."
+8,81.4,114/66,74,1,none,no,normal,all taken,"Gardening. Knee sore after, took the pain pills from the cabinet."
+9,81.2,110/64,76,0,none,slightly,normal,"evening metoprolol missed (forgot)","Loose stools x3. Knee better with the pills."
+10,81.0,108/62,78,0,none,slightly,less,all taken,"Loose stools x2. Drinking less, trying to keep to my fluid limit."
+11,,104/60,80,0,none,yes,less,all taken,"Forgot to weigh. Tired."
+12,81.1,102/60,80,0,none,yes,"less, dark",all taken,"Leg cramps at night. Still taking the knee pills."
+13,81.2,98/58,82,0,none,yes,"less, dark",all taken,"Clinic blood test. Wife says I look pale."
+14,81.0,96/58,84,0,none,yes,"less, dark",all taken so far,"Thirsty. Grey-out when I stood up from the toilet, sat back down. Breathing fine."
